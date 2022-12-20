@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * Description: main - Prints out texts to stdout.
  * Return: 0 should the code runs successfully.
